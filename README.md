@@ -1,7 +1,7 @@
-# Twimba — A Twitter Clone
+# Twimba - A Twitter Clone
 
 Twimba is a lightweight Twitter-style microblogging app built with HTML, CSS, and JavaScript (ES Modules).  
-It allows users to post tweets, like and retweet posts, and view threaded replies — all rendered dynamically in the browser.
+It allows users to post tweets, like and retweet posts, and view threaded replies - all rendered dynamically in the browser.
 
 ---
 
